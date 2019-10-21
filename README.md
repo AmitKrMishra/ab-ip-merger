@@ -55,5 +55,23 @@ You can view javadocs in the path provided in console
 - Check style
 
 	mvn checkstyle:check	
+	
+	
+	
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
